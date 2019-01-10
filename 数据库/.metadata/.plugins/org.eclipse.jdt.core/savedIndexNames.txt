@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+F:\学习资料\JAVA\calculator\数据库\.metadata\.plugins\org.eclipse.jdt.core
